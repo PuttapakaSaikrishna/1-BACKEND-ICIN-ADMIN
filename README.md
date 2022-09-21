@@ -1,3 +1,5 @@
 # BACKEND-ICIN-ADMIN
 
-
+TECHONOLOGIES USED :
+Spring Boot
+Mysql
